@@ -25,8 +25,8 @@ description: My Ph.D. research and study blog
 navbar-links:
   Home: "http://ibambusek.github.io"
   Research:
-    - UI/UX: "http://ibambusek.github.io"/ui-ux"
-    - Q-methodology: "http://ibambusek.github.io"/qmethodology"
+    - UI/UX: "http://ibambusek.github.io/ui-ux"
+    - Q-methodology: "http://ibambusek.github.io/qmethodology"
     - Other: "http://ibambusek.github.io/other"
   Thesis supervision: "http://ibambusek.github.io/thesis"
 
