@@ -62,3 +62,7 @@ Vždy se podívejte na hodnocení vedoucího/oponenta a známku, ať si udělát
 - [Various UX books](http://www.adhamdannaway.com/blog/ux-design/10-must-read-ux-design-books)
 - [Design for Hackers](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956)
 - More to come...
+
+### Konzultace
+
+Tady bude link na konzultační hodiny...
