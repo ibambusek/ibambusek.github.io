@@ -60,8 +60,8 @@ footer-links-active:
   email: true
   twitter: true
   google-plus: false
-  github: true
-  linkedin: true
+  github: false
+  linkedin: false
   xing: false
   stackoverflow: false
   snapchat: false
