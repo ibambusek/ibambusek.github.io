@@ -14,6 +14,10 @@ Než začněte psát, je dobré si rozmyslet co, jak a kdy budete dělat. Na té
 - [Tao diplomky od prof. Herouta](http://www.herout.net/tao-diplomky/)
 -	[Jak na diplomky od Ing. Igora Szőke](http://blog.igor.szoke.cz/p/diplomky.html)
 
+### Konzultace
+
+Pokud se ke mně chystáte přijít na konzultaci, napište se prosím [zde](http://merlin.fit.vutbr.cz/wiki/index.php/Konzultace-Bambusek).
+
 ### Chystáme tvorbu
 
 Jaké téma si zvolit a jaké myšlenkové pochody k tomu vedou najdete na blozích výše. V tomto stádiu tedy předpokládám, že máte zapsáno téma. Takže co teď, začít psát, implementovat, skočit z okna?
@@ -63,6 +67,3 @@ Vždy se podívejte na hodnocení vedoucího/oponenta a známku, ať si udělát
 - [Design for Hackers](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956)
 - More to come...
 
-### Konzultace
-
-Tady bude link na konzultační hodiny...
