@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Thesis
-subtitle: Jak, kde a co k diplomkám...
+title: Diplomky
+subtitle: Jak, kde a co...
 ---
 Tato stránka by měla sloužit jako rozcestník pro studenty pracující na své diplomové práci. Primárně je určena pro studenty, kteří diplomku píší pod vým vedením se zaměřením na UI/UX. Věřím ale, že zde užitečné odkazy najde každý diplomant.
 
