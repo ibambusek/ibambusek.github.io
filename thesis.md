@@ -67,3 +67,16 @@ Vždy se podívejte na hodnocení vedoucího/oponenta a známku, ať si udělát
 - [Design for Hackers](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956)
 - More to come...
 
+### Github Student Pack
+Github pro studenty nabízí pěkný balíček služeb, díky kterému získáte přístup k monha aplikacím a službám zdarma, nebo do startu dostanete nějaký ten kredit. [Github Student Pack](https://education.github.com/pack)
+
+### VPS hosting
+Pro hostování vašich webových aplikací nebo serverů pro mobilní aplikace budete potřebovat určitě nějaký server. Pokud si nechcete bastlit svůj, je tady možnost pořídit si za docela rozumnou cenu okolo 5$/měsíc cloudový VPS. Možností je spousta, u některých si můžete zvolit několik druhů OS nebo přímo nainstalovat balíček s demo aplikací (Ruby on Rails, MEAN, MongoDB, Wordpress...), což vám urychlí a usnadní práci
+
+- [DigitalOcean](https://www.digitalocean.com/) - v rámi Github Student Pack dostanete 50$ kredit
+- [Amazon Web services](https://aws.amazon.com/)- Github Student Pack opět rozdává kredit zdarma
+- [Heroku](https://www.heroku.com/) - server na doméně třetího řádu zdarma
+- [Microsoft Azure](https://azure.microsoft.com/cs-cz/)
+- [Virpus](http://virpus.com/)
+- [Firebase](https://firebase.google.com/) - hosting zahrnující analytiku a další užitečné služby pro vývoj a hostování aplikací
+
