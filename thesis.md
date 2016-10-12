@@ -62,8 +62,25 @@ Vždy se podívejte na hodnocení vedoucího/oponenta a známku, ať si udělát
 
 ### Literatura pro UI/UX
 - [Web ostrý jako břitva](https://janrezac.com/kniha)
-- [Various UI books](http://www.adhamdannaway.com/blog/ui-design/ui-design-books)
-- [Various UX books](http://www.adhamdannaway.com/blog/ux-design/10-must-read-ux-design-books)
 - [Design for Hackers](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956)
-- More to come...
+- [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)
+- [Rocket Surgery Made Easy](https://www.amazon.com/gp/product/0321657292/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321657292&linkCode=as2&tag=advancedcommonse)
+- [Measuring the User Experience](https://www.amazon.com/Measuring-User-Experience-Second-Technologies/dp/0124157815)
+- [A Project Guide to UX Design](https://www.amazon.com/Project-Guide-Design-experience-designers/dp/0321815386/ref=sr_1_1?ie=UTF8&qid=1476304980&sr=8-1&keywords=project+guide+design)
+- [Designing Mobile Interfaces](https://www.amazon.com/Designing-Mobile-Interfaces-Steven-Hoober/dp/1449394639/ref=sr_1_15?s=books&ie=UTF8&qid=1357216345&sr=1-15&keywords=Books+for+Interface+Designers)
+- [Mobile Design Pattern Gallery](https://www.amazon.com/Mobile-Design-Pattern-Gallery-Smartphone/dp/1449363636/ref=dp_ob_title_bk)
+- [Smashing UX Design](https://www.amazon.com/Smashing-Design-Foundations-Designing-Experiences/dp/0470666854/ref=sr_1_1?s=books&ie=UTF8&qid=1476305130&sr=1-1&keywords=Smashing+UX+Design)
+- [Quantifying the User Experience](https://www.amazon.com/Quantifying-User-Experience-Practical-Statistics/dp/0123849683/ref=sr_1_1?s=books&ie=UTF8&qid=1476305175&sr=1-1&keywords=Quantifying+the+User+Experience)
+- [100 Things Every Designer Needs to Know About People](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535/ref=sr_1_1?s=books&ie=UTF8&qid=1476305212&sr=1-1&keywords=100+Things+Every+Designer+Needs+to+Know)
+- [100 MORE Things Every Designer Needs to Know About People](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0134196031/ref=sr_1_2?s=books&ie=UTF8&qid=1476305212&sr=1-2&keywords=100+Things+Every+Designer+Needs+to+Know)
+- [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=sr_1_1?s=books&ie=UTF8&qid=1476305294&sr=1-1&keywords=design+of+everyday+things)
+- [UNDERCOVER USER EXPERIENCE DESIGN](http://undercoverux.com/index.php)
+- [About Face](http://feiramoderna.net/download/pos-positivo/COOPER-Alan/About_Face_3-The_Essentials_of_Interaction_Design.pdf)
+
+### Weby o UX/UI
+- [GoodUI](http://www.goodui.org/)
+- [UX Planet](https://uxplanet.org/)
+- [UI Patterns](http://ui-patterns.com/)
+- [Usability.gov](https://www.usability.gov/)
+
 
