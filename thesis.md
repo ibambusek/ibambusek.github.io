@@ -83,7 +83,6 @@ Vždy se podívejte na hodnocení vedoucího/oponenta a známku, ať si udělát
 - [UI Patterns](http://ui-patterns.com/)
 - [Usability.gov](https://www.usability.gov/)
 
-
 ### Github Student Pack
 Github pro studenty nabízí pěkný balíček služeb, díky kterému získáte přístup k monha aplikacím a službám zdarma, nebo do startu dostanete nějaký ten kredit. [Github Student Pack](https://education.github.com/pack)
 
