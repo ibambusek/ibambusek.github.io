@@ -76,12 +76,20 @@ Vždy se podívejte na hodnocení vedoucího/oponenta a známku, ať si udělát
 - [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=sr_1_1?s=books&ie=UTF8&qid=1476305294&sr=1-1&keywords=design+of+everyday+things)
 - [UNDERCOVER USER EXPERIENCE DESIGN](http://undercoverux.com/index.php)
 - [About Face](http://feiramoderna.net/download/pos-positivo/COOPER-Alan/About_Face_3-The_Essentials_of_Interaction_Design.pdf)
+- [The Encyclopedia of Human-Computer Interaction](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed)
 
 ### Weby o UX/UI
 - [GoodUI](http://www.goodui.org/)
 - [UX Planet](https://uxplanet.org/)
 - [UI Patterns](http://ui-patterns.com/)
 - [Usability.gov](https://www.usability.gov/)
+- [Nick Babich blog](http://babich.biz/tag/ux/)
+
+### Kurzy UX/UI
+- [Coursea - Introduction to User Experience Design](https://www.coursera.org/learn/user-experience-design)
+- [UX Tree](http://uxtree.io/)
+- [Springboard - User Experience Design](http://snip.ly/gifot#https://www.springboard.com/learning-paths/user-experience-design)
+- [Open2Study - WebUX](https://www.open2study.com/courses/user-experience-for-the-web)
 
 ### Github Student Pack
 Github pro studenty nabízí pěkný balíček služeb, díky kterému získáte přístup k monha aplikacím a službám zdarma, nebo do startu dostanete nějaký ten kredit. [Github Student Pack](https://education.github.com/pack)
