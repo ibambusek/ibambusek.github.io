@@ -61,22 +61,46 @@ Vždy se podívejte na hodnocení vedoucího/oponenta a známku, ať si udělát
 - [Uživatelské rozhraní pro řízení technologií](http://www.fit.vutbr.cz/study/DP/DP.php.cs?id=17944&y=2014&k=u%BEivatelsk%E9%20rozhran%ED)
 
 ### Literatura pro UI/UX
+
+Literatura je rozřazena jen orientačně. Většina publikací se zaobírá více tématy a má různý přesah do jiných oblastí...
+
+#### Obecně a zeširoka
 - [Web ostrý jako břitva](https://janrezac.com/kniha)
-- [Design for Hackers](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956)
+- [Smashing UX Design](https://www.amazon.com/Smashing-Design-Foundations-Designing-Experiences/dp/0470666854/ref=sr_1_1?s=books&ie=UTF8&qid=1476305130&sr=1-1&keywords=Smashing+UX+Design)
 - [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)
 - [Rocket Surgery Made Easy](https://www.amazon.com/gp/product/0321657292/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321657292&linkCode=as2&tag=advancedcommonse)
-- [Measuring the User Experience](https://www.amazon.com/Measuring-User-Experience-Second-Technologies/dp/0124157815)
+- [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=sr_1_1?s=books&ie=UTF8&qid=1476305294&sr=1-1&keywords=design+of+everyday+things)
 - [A Project Guide to UX Design](https://www.amazon.com/Project-Guide-Design-experience-designers/dp/0321815386/ref=sr_1_1?ie=UTF8&qid=1476304980&sr=8-1&keywords=project+guide+design)
-- [Designing Mobile Interfaces](https://www.amazon.com/Designing-Mobile-Interfaces-Steven-Hoober/dp/1449394639/ref=sr_1_15?s=books&ie=UTF8&qid=1357216345&sr=1-15&keywords=Books+for+Interface+Designers)
-- [Mobile Design Pattern Gallery](https://www.amazon.com/Mobile-Design-Pattern-Gallery-Smartphone/dp/1449363636/ref=dp_ob_title_bk)
-- [Smashing UX Design](https://www.amazon.com/Smashing-Design-Foundations-Designing-Experiences/dp/0470666854/ref=sr_1_1?s=books&ie=UTF8&qid=1476305130&sr=1-1&keywords=Smashing+UX+Design)
+- [The Elements of User Experience](https://www.amazon.com/gp/product/0735712026?ie=UTF8&tag=ux-booth-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0735712026)
+- [UNDERCOVER USER EXPERIENCE DESIGN](http://undercoverux.com/index.php)
+- [The Encyclopedia of Human-Computer Interaction](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed)
+- [About Face](http://feiramoderna.net/download/pos-positivo/COOPER-Alan/About_Face_3-The_Essentials_of_Interaction_Design.pdf)
+
+#### Uživatelský výzkum
+- [Just Enough Research](https://www.amazon.com/Just-Enough-Research-Erika-Hall/dp/1937557103)
+- [Communicating the User Experience](https://www.amazon.com/Communicating-User-Experience-Practical-Documentation/dp/1119971101)
+- [The User Is Always Right](https://www.amazon.com/gp/product/0321434536?ie=UTF8&tag=ux-booth-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321434536)
+- [Measuring the User Experience](https://www.amazon.com/Measuring-User-Experience-Second-Technologies/dp/0124157815)
 - [Quantifying the User Experience](https://www.amazon.com/Quantifying-User-Experience-Practical-Statistics/dp/0123849683/ref=sr_1_1?s=books&ie=UTF8&qid=1476305175&sr=1-1&keywords=Quantifying+the+User+Experience)
 - [100 Things Every Designer Needs to Know About People](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535/ref=sr_1_1?s=books&ie=UTF8&qid=1476305212&sr=1-1&keywords=100+Things+Every+Designer+Needs+to+Know)
 - [100 MORE Things Every Designer Needs to Know About People](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0134196031/ref=sr_1_2?s=books&ie=UTF8&qid=1476305212&sr=1-2&keywords=100+Things+Every+Designer+Needs+to+Know)
-- [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=sr_1_1?s=books&ie=UTF8&qid=1476305294&sr=1-1&keywords=design+of+everyday+things)
-- [UNDERCOVER USER EXPERIENCE DESIGN](http://undercoverux.com/index.php)
-- [About Face](http://feiramoderna.net/download/pos-positivo/COOPER-Alan/About_Face_3-The_Essentials_of_Interaction_Design.pdf)
-- [The Encyclopedia of Human-Computer Interaction](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed)
+
+#### Návrh webu
+- [Information Architecture for the World Wide Web](https://www.amazon.com/gp/product/0596527349?ie=UTF8&tag=ux-booth-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0596527349)
+
+#### Grafický návrh, design, branding, typografie
+- [Design for Hackers](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956)
+- [Designing Mobile Interfaces](https://www.amazon.com/Designing-Mobile-Interfaces-Steven-Hoober/dp/1449394639/ref=sr_1_15?s=books&ie=UTF8&qid=1357216345&sr=1-15&keywords=Books+for+Interface+Designers)
+- [Mobile Design Pattern Gallery](https://www.amazon.com/Mobile-Design-Pattern-Gallery-Smartphone/dp/1449363636/ref=dp_ob_title_bk)
+- [Designing Interfaces](https://www.amazon.com/gp/product/0596008031?ie=UTF8&tag=ux-booth-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0596008031)
+
+
+
+
+
+
+### Github Student Pack
+Github pro studenty nabízí pěkný balíček služeb, díky kterému získáte přístup k mnoha aplikacím a službám zdarma, nebo do startu dostanete nějaký ten kredit. [Github Student Pack](https://education.github.com/pack)
 
 ### Weby o UX/UI
 - [GoodUI](http://www.goodui.org/)
@@ -91,9 +115,27 @@ Vždy se podívejte na hodnocení vedoucího/oponenta a známku, ať si udělát
 - [Springboard - User Experience Design](http://snip.ly/gifot#https://www.springboard.com/learning-paths/user-experience-design)
 - [Open2Study - WebUX](https://www.open2study.com/courses/user-experience-for-the-web)
 
-### Github Student Pack
-Github pro studenty nabízí pěkný balíček služeb, díky kterému získáte přístup k monha aplikacím a službám zdarma, nebo do startu dostanete nějaký ten kredit. [Github Student Pack](https://education.github.com/pack)
+### Prototypovací nástroje (free - alespoň v nějakém ohledu)
+- [Seznam několika nástrojů](http://uxdesignweekly.com/ux-resources/prototyping-tools/)
+- [Mockplus](http://www.mockplus.com/)
+- [Moqups](https://moqups.com)
+- [Marvel](https://marvelapp.com/)
+- [Invisionapp](https://www.invisionapp.com/)
+- [Vectr](https://vectr.com/)
+- [Origami](http://facebook.github.io/origami/) - iPhone
+- [Layoutit](http://www.layoutit.com/) - Bootstrap
+- [Pingendo](http://pingendo.com/) - Bootstrap
+- [Webflow](https://webflow.com/)
+- [Framebox](http://framebox.org/)
+- [Wireframe.cc](https://wireframe.cc/)
+- [Pencilproject]()
+- [UX Pin](https://www.uxpin.com/)
+- [Cacoo](https://cacoo.com/lang/en/)
+- [JumpChart](https://www.jumpchart.com/)
+- [MockFlow](https://www.mockflow.com/)
+- [JustInMind](https://www.justinmind.com/free-wireframing-tool)
 
+- []()
 ### VPS hosting
 Pro hostování vašich webových aplikací nebo serverů pro mobilní aplikace budete potřebovat určitě nějaký server. Pokud si nechcete bastlit svůj, je tady možnost pořídit si za docela rozumnou cenu okolo 5$/měsíc cloudový VPS. Možností je spousta, u některých si můžete zvolit několik druhů OS nebo přímo nainstalovat balíček s demo aplikací (Ruby on Rails, MEAN, MongoDB, Wordpress...), což vám urychlí a usnadní práci
 
